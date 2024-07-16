@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    text-decoration: none;
+}
+video{
+    position: fixed;
+}
+
+
+
+.container{
+    
+    width: 100px;
+    height: 100%;
+    position: absolute;
+    text-align: center;
+    color: white;
+}
+.container-left{
+    position: fixed;
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    width: 30px;
+    text-align: center;
+    gap: 20px;
+}
+.imge{
+    width: 50px;
+    height: 40px;
+    position: relative;
+    top: 10px;
+    color: yellow;
+}
+a{
+    color: white;
+}
+.ico{
+    width: 30px;
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    gap: 30px;
+    position: relative;
+    bottom: 500px;
+}
+.subsc{
+    position: relative;
+    bottom: 250px
+}
+
+
+.login{
+    position: relative;
+    left: 250px;
+    width: 800px;
+    top: 300px;
+    
+}
+.mess{
+    font-size: 13px;
+    color: gainsboro;
+}
+.button{
+    position: relative;
+    font-size: xx-large;
+    top: 40px;
+    width: 200px;
+    background-color: blue;
+    color: white;
+    font-weight: 900;
+    border-radius: 10px;
+}
+.help-icons{
+    position: relative;
+    font-size: xx-large;
+   width: 300px;
+    background-color: gray;
+    color: white;
+    font-weight: 900;
+    left: 950px;
+    bottom: 40px;
+    text-align: center;
+    font-size: x-large;
+    border-radius: 10px;
+}
