@@ -2,6 +2,9 @@
     margin: 0;
     text-decoration: none;
 }
+body{
+    background-color: black;
+}
 video{
     position: fixed;
 }
