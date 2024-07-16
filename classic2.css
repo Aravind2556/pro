@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    text-decoration: none;
+    
+}
+body{
+    background-color: black;
+}
+video{
+    position: fixed;
+}
+.container{
+    height: 40px;
+    position: relative;
+    text-align: center;
+    color: white;
+    margin-left: 100px;
+    right: 100px;
+    top: 40px;
+    
+}
+.section{
+    position: fixed;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    text-align: center;
+    gap: 180px;
+}
+.logo{
+    position: relative;
+    right: 240px;
+    font-size: x-large;
+    color: white;
+}
+#logo{
+    color: yellow;
+}
+.logo-icon{
+    position: relative;
+    font-size: xx-large;
+    top: 15px;
+    color: white;
+}
+.lang{
+    position: relative;
+    font-size: xx-large;
+    color: black;
+    width: 200px;
+}
+.button{
+    position: relative;
+    font-size: xx-large;
+    color: black;
+    background-color: blue;
+    right: 60px;
+}
+
+.footer{
+    position: relative;
+    width: 100%;
+    font-size: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 100px;
+    margin-bottom: 20px;
+    top: 300px;
+    left: 100px;
+}
+.foot{
+    color: white;
+    width: 200px;
+    font-size: 12px;
+    text-align: left;
+}
