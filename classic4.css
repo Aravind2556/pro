@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: black;
+}
+.container{
+    position: relative;
+    text-align: center;
+    color: white;
+    top: 100px;
+}
+.close{
+    position: relative;
+    left: 250px;
+    font-size: xx-large;
+    bottom: 20px;
+}
+.heads{
+    position: relative;
+    bottom: 20px;
+    color: gray;
+}
+.v1{
+    border-left: 1px solid gray;
+    height: 100px;
+    position: relative;
+    left: 650px;
+}
+.input{
+    position: relative;
+    width: 300px;
+    left: 740px;
+    bottom: 150px;
+}
+.button{
+    font-size: 19px;
+    background-color: gray;
+    border: 2px solid gray;
+}
+.pra{
+    color: gray;
+}
+span{
+    font-weight: 900;
+    color: grey;
+}
+.tro{
+    position: relative;
+    top: 70px;
+}
+.qr-code{
+    position: relative;
+    right: 500px;
+    bottom: 150px;
+    width: 300px;
+    text-align: center;
+}
+.cam{
+    font-size: 25px;
+    position: relative;
+    top: 10px;
+}
+.con{
+    font-size: 20px;
+    position: relative;
+    top: 30px;
+    color: gray;
+}
+
+
+
+
+
+
