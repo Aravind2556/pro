@@ -71,6 +71,7 @@ a{
     color: white;
     font-weight: 900;
     border-radius: 10px;
+    left: 300px;
 }
 .help-icons{
     position: relative;
